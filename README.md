@@ -1,5 +1,5 @@
-# Fluid-Dynamics-Project
-Includes all I have done for the fluid dynamics project, even the references I have used
+# Thermal Photon Production Project 
+Includes all I have done for the project.
 
 The Mathematica file was used for making the numerical calculations for the photon emission rates and thermal photon production rates, but the python file was used for making the plots out of the text files in which the results were compiled. There is one binary file that was needed for calculating the QCD equation of state with Bjorken.
 
